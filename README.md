@@ -3,6 +3,10 @@
 Aplicação web (PWA) que organiza a escala de obreiros por área e congregação: convites, disponibilidade, eventos locais, geração automática da escala, PDF e notificações.
 
 <p>
+  <a href="https://escala.tscbr.com.br"><img alt="Acessar Escala Local" src="https://img.shields.io/badge/VER%20PROJETO-escala.tscbr.com.br-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+</p>
+
+<p>
   <img alt="Status" src="https://img.shields.io/badge/status-em%20produ%C3%A7%C3%A3o-10bfe1?style=flat-square"/>
   <img alt="SvelteKit" src="https://img.shields.io/badge/SvelteKit-Svelte%205-1f2334?style=flat-square&logo=svelte&logoColor=FF3E00"/>
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-4-1f2334?style=flat-square&logo=tailwindcss&logoColor=38BDF8"/>
@@ -55,6 +59,8 @@ Entre com a carteira **900001** e a senha definida em `ADMIN_SENHA`. Para gerar 
 
 ### Produção (PostgreSQL)
 
+O endereço público oficial da demonstração é **https://escala.tscbr.com.br**.
+
 1. Configure `DATABASE_URL` (Transaction pooler, `sslmode=verify-full`) e `DATABASE_SSL_CA` com o certificado oficial do Supabase.
 2. Aplique as migrações: `npm run db:setup`.
 3. Defina `ADMIN_LOGIN`, `ADMIN_SENHA` e `SESSAO_SEGREDO` como variáveis de ambiente no provedor de hospedagem.
@@ -87,4 +93,4 @@ npm run build
 
 ---
 
-Desenvolvido por **Estevão Santos** · [github.com/dev-estevao-miguel](https://github.com/dev-estevao-miguel)
+Desenvolvido por **Estevão dos Santos** · [github.com/dev-estevao-miguel](https://github.com/dev-estevao-miguel)
