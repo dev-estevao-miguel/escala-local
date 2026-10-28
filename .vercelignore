@@ -1,0 +1,27 @@
+node_modules
+.svelte-kit
+build
+.vercel/output
+data
+.env*
+.codex-backup
+test-results
+playwright-report
+tests
+redesign
+# Arquivos locais, relatórios e ferramentas de teste não entram na publicação.
+**/.env*
+**/*.db
+**/*.db-*
+**/*.sqlite*
+**/*.csv
+**/*.pdf
+**/*.md
+**/*.bak
+**/*.log
+**/*.pem
+**/*.key
+supabase/.temp
+supabase/.branches
+playwright.config.ts
+scripts

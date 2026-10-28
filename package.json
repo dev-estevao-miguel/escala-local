@@ -1,0 +1,60 @@
+{
+  "name": "escala-local",
+  "private": true,
+  "version": "1.20.3",
+  "type": "module",
+  "engines": {
+    "node": "24.x"
+  },
+  "imports": {
+    "#lib": "./src/lib",
+    "#lib/*": [
+      "./src/lib/*",
+      "./src/lib/*.ts"
+    ]
+  },
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "node build",
+    "check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json && tsc -p src/service-worker/tsconfig.json --noEmit",
+    "db:reset": "node scripts/reset-db.js",
+    "db:setup": "node scripts/setup-database.mjs",
+    "admin:setup": "node scripts/admin-access.mjs",
+    "admin:criar-senha": "node scripts/admin-create-password.mjs",
+    "local:setup": "node scripts/configure-local.mjs",
+    "dados:teste": "node scripts/popular-testes-locais.mjs",
+    "test:dados": "node scripts/test-dados-locais.mjs",
+    "test:seguranca": "node scripts/test-seguranca.mjs",
+    "test:publicacao": "node scripts/test-publicacao.mjs",
+    "test": "playwright test",
+    "test:db": "node scripts/test-database.mjs",
+    "test:regras": "node scripts/test-regras.mjs",
+    "test:upgrade": "node scripts/test-upgrade.mjs"
+  },
+  "dependencies": {
+    "@supabase/ssr": "^0.12.7",
+    "@supabase/supabase-js": "^2.118.0",
+    "pdfkit": "^0.20.2",
+    "pg": "^8.23.1"
+  },
+  "devDependencies": {
+    "@electric-sql/pglite": "^0.5.10",
+    "@playwright/test": "^1.64.1",
+    "@sveltejs/adapter-node": "^6.0.0",
+    "@sveltejs/adapter-vercel": "^7.0.0",
+    "@sveltejs/kit": "^3.0.1",
+    "@sveltejs/vite-plugin-svelte": "^7.3.1",
+    "@tailwindcss/vite": "^4.3.3",
+    "@types/node": "^26.6.5",
+    "@types/pdfkit": "^0.17.6",
+    "@types/pg": "^8.23.1",
+    "devalue": "^5.9.4",
+    "svelte": "^5.57.2",
+    "svelte-check": "^4.7.6",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^6.0.3",
+    "vite": "^8.3.4"
+  }
+}

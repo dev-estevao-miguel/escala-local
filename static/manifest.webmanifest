@@ -1,0 +1,17 @@
+{
+	"id": "/",
+	"scope": "/",
+	"name": "Escala Local",
+	"short_name": "Escala Local",
+	"description": "v1.20.3 - Escalas dos obreiros nas áreas e congregações da DEMO.",
+	"lang": "pt-BR",
+	"start_url": "/",
+	"display": "standalone",
+	"background_color": "#f1f3f6",
+	"theme_color": "#037fb0",
+	"icons": [
+		{ "src": "/icone-demo-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+		{ "src": "/icone-demo-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+		{ "src": "/icone-demo-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+	]
+}

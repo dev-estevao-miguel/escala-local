@@ -1,0 +1,734 @@
+{
+ "fonte": "Catálogo FICTÍCIO para demonstração. Nenhum endereço ou congregação real.",
+ "areas": [
+  {
+   "codigo": "01",
+   "polo": "POLO DEMO 01",
+   "congregacoes": [
+    {
+     "codigo": "0101",
+     "nome": "Templo Sede Demo 01",
+     "sede": true,
+     "endereco": "Rua Exemplo, 100, Bairro Demo, Cidade Demo - UF · CEP 00000-001",
+     "maps": "",
+     "agenda": [
+      {
+       "culto": "Pregação",
+       "quando": "Domingo"
+      },
+      {
+       "culto": "Doutrina",
+       "quando": ""
+      },
+      {
+       "culto": "Oração",
+       "quando": "Quarta-feira"
+      },
+      {
+       "culto": "Círculo de Oração",
+       "quando": ""
+      },
+      {
+       "culto": "Santa Ceia",
+       "quando": "1ª semana · Domingo"
+      },
+      {
+       "culto": "Culto para Mocidade",
+       "quando": ""
+      }
+     ]
+    },
+    {
+     "codigo": "0102",
+     "nome": "Congregação Demo Beta 01",
+     "sede": false,
+     "endereco": "Rua Exemplo, 110, Vila Exemplo, Cidade Demo - UF · CEP 00000-001",
+     "maps": "",
+     "agenda": [
+      {
+       "culto": "Pregação",
+       "quando": ""
+      },
+      {
+       "culto": "Doutrina",
+       "quando": "Segunda-feira"
+      },
+      {
+       "culto": "Oração",
+       "quando": ""
+      },
+      {
+       "culto": "Círculo de Oração",
+       "quando": "Quinta-feira"
+      },
+      {
+       "culto": "Santa Ceia",
+       "quando": ""
+      },
+      {
+       "culto": "Culto para Mocidade",
+       "quando": "Sábado"
+      }
+     ]
+    },
+    {
+     "codigo": "0103",
+     "nome": "Congregação Demo Gama 01",
+     "sede": false,
+     "endereco": "Rua Exemplo, 120, Jardim Fictício, Cidade Demo - UF · CEP 00000-001",
+     "maps": "",
+     "agenda": [
+      {
+       "culto": "Pregação",
+       "quando": "Domingo"
+      },
+      {
+       "culto": "Doutrina",
+       "quando": ""
+      },
+      {
+       "culto": "Oração",
+       "quando": "Quarta-feira"
+      },
+      {
+       "culto": "Círculo de Oração",
+       "quando": ""
+      },
+      {
+       "culto": "Santa Ceia",
+       "quando": "1ª semana · Domingo"
+      },
+      {
+       "culto": "Culto para Mocidade",
+       "quando": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "codigo": "05",
+   "polo": "POLO DEMO 05",
+   "congregacoes": [
+    {
+     "codigo": "0501",
+     "nome": "Templo Sede Demo 05",
+     "sede": true,
+     "endereco": "Rua Exemplo, 100, Bairro Demo, Cidade Demo - UF · CEP 00000-005",
+     "maps": "",
+     "agenda": [
+      {
+       "culto": "Pregação",
+       "quando": "Domingo"
+      },
+      {
+       "culto": "Doutrina",
+       "quando": ""
+      },
+      {
+       "culto": "Oração",
+       "quando": "Quarta-feira"
+      },
+      {
+       "culto": "Círculo de Oração",
+       "quando": ""
+      },
+      {
+       "culto": "Santa Ceia",
+       "quando": "1ª semana · Domingo"
+      },
+      {
+       "culto": "Culto para Mocidade",
+       "quando": ""
+      }
+     ]
+    },
+    {
+     "codigo": "0502",
+     "nome": "Congregação Demo Beta 05",
+     "sede": false,
+     "endereco": "Rua Exemplo, 110, Vila Exemplo, Cidade Demo - UF · CEP 00000-005",
+     "maps": "",
+     "agenda": [
+      {
+       "culto": "Pregação",
+       "quando": ""
+      },
+      {
+       "culto": "Doutrina",
+       "quando": "Segunda-feira"
+      },
+      {
+       "culto": "Oração",
+       "quando": ""
+      },
+      {
+       "culto": "Círculo de Oração",
+       "quando": "Quinta-feira"
+      },
+      {
+       "culto": "Santa Ceia",
+       "quando": ""
+      },
+      {
+       "culto": "Culto para Mocidade",
+       "quando": "Sábado"
+      }
+     ]
+    },
+    {
+     "codigo": "0503",
+     "nome": "Congregação Demo Gama 05",
+     "sede": false,
+     "endereco": "Rua Exemplo, 120, Jardim Fictício, Cidade Demo - UF · CEP 00000-005",
+     "maps": "",
+     "agenda": [
+      {
+       "culto": "Pregação",
+       "quando": "Domingo"
+      },
+      {
+       "culto": "Doutrina",
+       "quando": ""
+      },
+      {
+       "culto": "Oração",
+       "quando": "Quarta-feira"
+      },
+      {
+       "culto": "Círculo de Oração",
+       "quando": ""
+      },
+      {
+       "culto": "Santa Ceia",
+       "quando": "1ª semana · Domingo"
+      },
+      {
+       "culto": "Culto para Mocidade",
+       "quando": ""
+      }
+     ]
+    },
+    {
+     "codigo": "0504",
+     "nome": "Congregação Demo Delta 05",
+     "sede": false,
+     "endereco": "Rua Exemplo, 130, Centro Demo, Cidade Demo - UF · CEP 00000-005",
+     "maps": "",
+     "agenda": [
+      {
+       "culto": "Pregação",
+       "quando": ""
+      },
+      {
+       "culto": "Doutrina",
+       "quando": "Segunda-feira"
+      },
+      {
+       "culto": "Oração",
+       "quando": ""
+      },
+      {
+       "culto": "Círculo de Oração",
+       "quando": "Quinta-feira"
+      },
+      {
+       "culto": "Santa Ceia",
+       "quando": ""
+      },
+      {
+       "culto": "Culto para Mocidade",
+       "quando": "Sábado"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "codigo": "15",
+   "polo": "POLO DEMO 15",
+   "congregacoes": [
+    {
+     "codigo": "1501",
+     "nome": "Templo Sede Demo 15",
+     "sede": true,
+     "endereco": "Rua Exemplo, 100, Bairro Demo, Cidade Demo - UF · CEP 00000-015",
+     "maps": "",
+     "agenda": [
+      {
+       "culto": "Pregação",
+       "quando": "Domingo"
+      },
+      {
+       "culto": "Doutrina",
+       "quando": ""
+      },
+      {
+       "culto": "Oração",
+       "quando": "Quarta-feira"
+      },
+      {
+       "culto": "Círculo de Oração",
+       "quando": ""
+      },
+      {
+       "culto": "Santa Ceia",
+       "quando": "1ª semana · Domingo"
+      },
+      {
+       "culto": "Culto para Mocidade",
+       "quando": ""
+      }
+     ]
+    },
+    {
+     "codigo": "1502",
+     "nome": "Congregação Demo Beta 15",
+     "sede": false,
+     "endereco": "Rua Exemplo, 110, Vila Exemplo, Cidade Demo - UF · CEP 00000-015",
+     "maps": "",
+     "agenda": [
+      {
+       "culto": "Pregação",
+       "quando": ""
+      },
+      {
+       "culto": "Doutrina",
+       "quando": "Segunda-feira"
+      },
+      {
+       "culto": "Oração",
+       "quando": ""
+      },
+      {
+       "culto": "Círculo de Oração",
+       "quando": "Quinta-feira"
+      },
+      {
+       "culto": "Santa Ceia",
+       "quando": ""
+      },
+      {
+       "culto": "Culto para Mocidade",
+       "quando": "Sábado"
+      }
+     ]
+    },
+    {
+     "codigo": "1503",
+     "nome": "Congregação Demo Gama 15",
+     "sede": false,
+     "endereco": "Rua Exemplo, 120, Jardim Fictício, Cidade Demo - UF · CEP 00000-015",
+     "maps": "",
+     "agenda": [
+      {
+       "culto": "Pregação",
+       "quando": "Domingo"
+      },
+      {
+       "culto": "Doutrina",
+       "quando": ""
+      },
+      {
+       "culto": "Oração",
+       "quando": "Quarta-feira"
+      },
+      {
+       "culto": "Círculo de Oração",
+       "quando": ""
+      },
+      {
+       "culto": "Santa Ceia",
+       "quando": "1ª semana · Domingo"
+      },
+      {
+       "culto": "Culto para Mocidade",
+       "quando": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "codigo": "20",
+   "polo": "POLO DEMO 20",
+   "congregacoes": [
+    {
+     "codigo": "2001",
+     "nome": "Templo Sede Demo 20",
+     "sede": true,
+     "endereco": "Rua Exemplo, 100, Bairro Demo, Cidade Demo - UF · CEP 00000-020",
+     "maps": "",
+     "agenda": [
+      {
+       "culto": "Pregação",
+       "quando": "Domingo"
+      },
+      {
+       "culto": "Doutrina",
+       "quando": ""
+      },
+      {
+       "culto": "Oração",
+       "quando": "Quarta-feira"
+      },
+      {
+       "culto": "Círculo de Oração",
+       "quando": ""
+      },
+      {
+       "culto": "Santa Ceia",
+       "quando": "1ª semana · Domingo"
+      },
+      {
+       "culto": "Culto para Mocidade",
+       "quando": ""
+      }
+     ]
+    },
+    {
+     "codigo": "2002",
+     "nome": "Congregação Demo Beta 20",
+     "sede": false,
+     "endereco": "Rua Exemplo, 110, Vila Exemplo, Cidade Demo - UF · CEP 00000-020",
+     "maps": "",
+     "agenda": [
+      {
+       "culto": "Pregação",
+       "quando": ""
+      },
+      {
+       "culto": "Doutrina",
+       "quando": "Segunda-feira"
+      },
+      {
+       "culto": "Oração",
+       "quando": ""
+      },
+      {
+       "culto": "Círculo de Oração",
+       "quando": "Quinta-feira"
+      },
+      {
+       "culto": "Santa Ceia",
+       "quando": ""
+      },
+      {
+       "culto": "Culto para Mocidade",
+       "quando": "Sábado"
+      }
+     ]
+    },
+    {
+     "codigo": "2003",
+     "nome": "Congregação Demo Gama 20",
+     "sede": false,
+     "endereco": "Rua Exemplo, 120, Jardim Fictício, Cidade Demo - UF · CEP 00000-020",
+     "maps": "",
+     "agenda": [
+      {
+       "culto": "Pregação",
+       "quando": "Domingo"
+      },
+      {
+       "culto": "Doutrina",
+       "quando": ""
+      },
+      {
+       "culto": "Oração",
+       "quando": "Quarta-feira"
+      },
+      {
+       "culto": "Círculo de Oração",
+       "quando": ""
+      },
+      {
+       "culto": "Santa Ceia",
+       "quando": "1ª semana · Domingo"
+      },
+      {
+       "culto": "Culto para Mocidade",
+       "quando": ""
+      }
+     ]
+    },
+    {
+     "codigo": "2004",
+     "nome": "Congregação Demo Delta 20",
+     "sede": false,
+     "endereco": "Rua Exemplo, 130, Centro Demo, Cidade Demo - UF · CEP 00000-020",
+     "maps": "",
+     "agenda": [
+      {
+       "culto": "Pregação",
+       "quando": ""
+      },
+      {
+       "culto": "Doutrina",
+       "quando": "Segunda-feira"
+      },
+      {
+       "culto": "Oração",
+       "quando": ""
+      },
+      {
+       "culto": "Círculo de Oração",
+       "quando": "Quinta-feira"
+      },
+      {
+       "culto": "Santa Ceia",
+       "quando": ""
+      },
+      {
+       "culto": "Culto para Mocidade",
+       "quando": "Sábado"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "codigo": "44",
+   "polo": "POLO DEMO 44",
+   "congregacoes": [
+    {
+     "codigo": "4401",
+     "nome": "Templo Sede Demo 44",
+     "sede": true,
+     "endereco": "Rua Exemplo, 100, Bairro Demo, Cidade Demo - UF · CEP 00000-044",
+     "maps": "",
+     "agenda": [
+      {
+       "culto": "Pregação",
+       "quando": "Domingo"
+      },
+      {
+       "culto": "Doutrina",
+       "quando": ""
+      },
+      {
+       "culto": "Oração",
+       "quando": "Quarta-feira"
+      },
+      {
+       "culto": "Círculo de Oração",
+       "quando": ""
+      },
+      {
+       "culto": "Santa Ceia",
+       "quando": "1ª semana · Domingo"
+      },
+      {
+       "culto": "Culto para Mocidade",
+       "quando": ""
+      }
+     ]
+    },
+    {
+     "codigo": "4402",
+     "nome": "Congregação Demo Beta 44",
+     "sede": false,
+     "endereco": "Rua Exemplo, 110, Vila Exemplo, Cidade Demo - UF · CEP 00000-044",
+     "maps": "",
+     "agenda": [
+      {
+       "culto": "Pregação",
+       "quando": ""
+      },
+      {
+       "culto": "Doutrina",
+       "quando": "Segunda-feira"
+      },
+      {
+       "culto": "Oração",
+       "quando": ""
+      },
+      {
+       "culto": "Círculo de Oração",
+       "quando": "Quinta-feira"
+      },
+      {
+       "culto": "Santa Ceia",
+       "quando": ""
+      },
+      {
+       "culto": "Culto para Mocidade",
+       "quando": "Sábado"
+      }
+     ]
+    },
+    {
+     "codigo": "4403",
+     "nome": "Congregação Demo Gama 44",
+     "sede": false,
+     "endereco": "Rua Exemplo, 120, Jardim Fictício, Cidade Demo - UF · CEP 00000-044",
+     "maps": "",
+     "agenda": [
+      {
+       "culto": "Pregação",
+       "quando": "Domingo"
+      },
+      {
+       "culto": "Doutrina",
+       "quando": ""
+      },
+      {
+       "culto": "Oração",
+       "quando": "Quarta-feira"
+      },
+      {
+       "culto": "Círculo de Oração",
+       "quando": ""
+      },
+      {
+       "culto": "Santa Ceia",
+       "quando": "1ª semana · Domingo"
+      },
+      {
+       "culto": "Culto para Mocidade",
+       "quando": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "codigo": "57",
+   "polo": "POLO DEMO 57",
+   "congregacoes": [
+    {
+     "codigo": "5701",
+     "nome": "Templo Sede Demo 57",
+     "sede": true,
+     "endereco": "Rua Exemplo, 100, Bairro Demo, Cidade Demo - UF · CEP 00000-057",
+     "maps": "",
+     "agenda": [
+      {
+       "culto": "Pregação",
+       "quando": "Domingo"
+      },
+      {
+       "culto": "Doutrina",
+       "quando": ""
+      },
+      {
+       "culto": "Oração",
+       "quando": "Quarta-feira"
+      },
+      {
+       "culto": "Círculo de Oração",
+       "quando": ""
+      },
+      {
+       "culto": "Santa Ceia",
+       "quando": "1ª semana · Domingo"
+      },
+      {
+       "culto": "Culto para Mocidade",
+       "quando": ""
+      }
+     ]
+    },
+    {
+     "codigo": "5702",
+     "nome": "Congregação Demo Beta 57",
+     "sede": false,
+     "endereco": "Rua Exemplo, 110, Vila Exemplo, Cidade Demo - UF · CEP 00000-057",
+     "maps": "",
+     "agenda": [
+      {
+       "culto": "Pregação",
+       "quando": ""
+      },
+      {
+       "culto": "Doutrina",
+       "quando": "Segunda-feira"
+      },
+      {
+       "culto": "Oração",
+       "quando": ""
+      },
+      {
+       "culto": "Círculo de Oração",
+       "quando": "Quinta-feira"
+      },
+      {
+       "culto": "Santa Ceia",
+       "quando": ""
+      },
+      {
+       "culto": "Culto para Mocidade",
+       "quando": "Sábado"
+      }
+     ]
+    },
+    {
+     "codigo": "5703",
+     "nome": "Congregação Demo Gama 57",
+     "sede": false,
+     "endereco": "Rua Exemplo, 120, Jardim Fictício, Cidade Demo - UF · CEP 00000-057",
+     "maps": "",
+     "agenda": [
+      {
+       "culto": "Pregação",
+       "quando": "Domingo"
+      },
+      {
+       "culto": "Doutrina",
+       "quando": ""
+      },
+      {
+       "culto": "Oração",
+       "quando": "Quarta-feira"
+      },
+      {
+       "culto": "Círculo de Oração",
+       "quando": ""
+      },
+      {
+       "culto": "Santa Ceia",
+       "quando": "1ª semana · Domingo"
+      },
+      {
+       "culto": "Culto para Mocidade",
+       "quando": ""
+      }
+     ]
+    },
+    {
+     "codigo": "5704",
+     "nome": "Congregação Demo Delta 57",
+     "sede": false,
+     "endereco": "Rua Exemplo, 130, Centro Demo, Cidade Demo - UF · CEP 00000-057",
+     "maps": "",
+     "agenda": [
+      {
+       "culto": "Pregação",
+       "quando": ""
+      },
+      {
+       "culto": "Doutrina",
+       "quando": "Segunda-feira"
+      },
+      {
+       "culto": "Oração",
+       "quando": ""
+      },
+      {
+       "culto": "Círculo de Oração",
+       "quando": "Quinta-feira"
+      },
+      {
+       "culto": "Santa Ceia",
+       "quando": ""
+      },
+      {
+       "culto": "Culto para Mocidade",
+       "quando": "Sábado"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

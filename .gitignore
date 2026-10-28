@@ -1,0 +1,14 @@
+node_modules
+.svelte-kit
+build
+data/*.db
+data/*.db-*
+.env
+.vercel
+
+.vercel
+.env*
+!.env.example
+.codex-backup/
+test-results/
+playwright-report/
